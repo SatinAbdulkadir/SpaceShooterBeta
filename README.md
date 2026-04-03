@@ -28,12 +28,4 @@
 
 ---
 
-## 🛠️ Klasör Yapısı
-![Klasör Yapısı](image_0.png)
 
-```text
-Assets/
- ├── 📁 Prefabs/        # Oyun objeleri
- ├── 📁 Scripts/        # C# Kodları
- ├── 📁 Sprites/        # Görseller
- └── 📁 Settings/       # Ayarlar

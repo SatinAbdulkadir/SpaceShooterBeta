@@ -11,7 +11,7 @@
 
 | Aksiyon Anı | Meteor Engelleri |
 | :---: | :---: |
-| ![Oyun İçi 1](image_9.png) | ![Oyun İçi 2](image_10.png) |
+| ![Oyun İçi 1](image1.png) | ![Oyun İçi 2](image2.png) |
 
 ---
 
